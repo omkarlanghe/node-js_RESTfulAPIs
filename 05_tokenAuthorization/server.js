@@ -63,7 +63,7 @@ router.use(function(req, res, next) {
 
 router.route('/product')
     .get(productList.getProduct)
-    .post(authController.isAuthenticated, productList.postProduct);
+    .post(userController.loginRequired, productList.postProduct);
 
 router.route('/product/:_id')
     .get(productList.readProduct)
