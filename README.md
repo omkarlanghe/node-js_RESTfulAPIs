@@ -12,3 +12,6 @@ This is the simple DotNet MVC project which helps to perform CRUD operations thr
 # 03_passportOAuth/passport
 This API is created for OAuth2.0 implementation. This API generates the token for API authentication. It uses passport library and Basic Strategy.
 
+# 04_UserCredendialUsingPassport 
+This API implements ClientCredential Flow using passport library. It uses Basic Strategy
+
