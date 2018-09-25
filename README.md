@@ -17,3 +17,6 @@ This API implements ClientCredential Flow using passport library. It uses Basic 
 
 # 05_tokenAuthorization
 It uses Client Credential flow using Basic Strategy.For token based authentication, JWT i.e json web token library is used to generate the token for token based authentication. Using this jwt token, we are authenticating CRUD API.
+
+# 06_ClientCredentialTokenGeneration 
+Implementation of Client Credential Flow using ClientPassword Strategy to generate the JWT token.
