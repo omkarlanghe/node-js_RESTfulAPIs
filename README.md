@@ -24,6 +24,6 @@ Implementation of Client Credential Flow using ClientPassword Strategy to genera
 # 07_clientPasswordStrategy
 Implementation of Client Credential Flow using ClientPassword Strategy to generate the JWT token. It uses client password strategy and 'Bearer' as an Authrorization header to authenticate CRUD API.
 
-# OauthProj.zip
+# 08_OauthProj.zip
 This is the simple DotNet MVC project which helps to perform CRUD Operation through webpage. It is more secure as compare to previous DotNet MVC project as OAuth2.0 with client credential flow is implemented in this. Now Authorized Client can only Authenticate the CRUD API by its client credential. It contains a login page through which client has to enter his/her credentials. Once successfully Authorized, Token is generated and now all further operations are accessed using that verified token. Just pass 'Bearer <token>' as an authorization header.
 
