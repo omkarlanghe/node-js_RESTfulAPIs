@@ -5,7 +5,8 @@ This Repository Contains the REST APIs created by me.
 Before going into each module, one must install following softwares to rest these modules.
 1. Install MongoDB
 2. Install POSTMAN/Fiddler tool
-3. For DotNet Project, I have used commandline commands to create the project.(Refer MSDN: https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore21)
+3. For DotNet Project, I have used commandline commands to create the project.
+(Refer MSDN: https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-new?tabs=netcore21)
 4. Install Visual Studio Code Editor
 
 # 01_RestApi_mongoCRUD 
