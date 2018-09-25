@@ -15,3 +15,5 @@ This API is created for OAuth2.0 implementation. This API generates the token fo
 # 04_UserCredendialUsingPassport 
 This API implements ClientCredential Flow using passport library. It uses Basic Strategy
 
+# 05_tokenAuthorization
+It uses Client Credential flow using Basic Strategy.For token based authentication, JWT i.e json web token library is used to generate the token for token based authentication. Using this jwt token, we are authenticating CRUD API.
