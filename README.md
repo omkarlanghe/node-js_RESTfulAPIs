@@ -20,3 +20,7 @@ It uses Client Credential flow using Basic Strategy.For token based authenticati
 
 # 06_ClientCredentialTokenGeneration 
 Implementation of Client Credential Flow using ClientPassword Strategy to generate the JWT token.
+
+# 07_clientPasswordStrategy
+Implementation of Client Credential Flow using ClientPassword Strategy to generate the JWT token. It uses client password strategy and 'Bearer' as an Authrorization header to authenticate CRUD API.
+
